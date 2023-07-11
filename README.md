@@ -6,7 +6,8 @@ EaglerForge is a WIP modding utility for Eaglercraft.
 Things planned:
 
 - [ ] Custom API for modding
-- [ ] EaglerMCP(better way to code clients without patch files)
+- [x] 
+~EaglerMCP(better way to code clients without patch files)~ just use buildtools fr
 
 ---
 
