@@ -1,3 +1,15 @@
+# EaglerForge
+![image](https://github.com/EaglerReborn/EaglerForge/assets/134523836/001a5439-22c0-4a9c-9086-0978619657c2)
+
+
+EaglerForge is a WIP modding utility for Eaglercraft.
+Things planned:
+
+- [ ] Custom API for modding
+- [ ] EaglerMCP(better way to code clients without patch files)
+
+---
+
 # EaglercraftX 1.8
 
 ### Play real Minecraft 1.8 in your browser, currently only supports multiplayer
