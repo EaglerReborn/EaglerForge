@@ -1,3 +1,9 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+this project is no longer maintained due to the fact that a plugin API is now in Eagler Reborn.
+
+----
+
+
 # EaglerForge
 ![image](https://github.com/EaglerReborn/EaglerForge/assets/134523836/001a5439-22c0-4a9c-9086-0978619657c2)
 
